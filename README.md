@@ -1,6 +1,6 @@
 
-I built an interactive dashboard focused on Kylian Mbappé — breaking down his performance across different seasons.
- The dashboard includes:
+I build interactive dashboards focused on Players careers — breaking down thrit performance across different seasons.
+ each dashboard includes:
  
  🔹 Goals, assists & key contributions
  
